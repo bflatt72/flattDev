@@ -15,10 +15,10 @@ module.exports = {
       summary: `who is a lifelong learner, curious thinker and aspiring Web Developer.`,
     },
 	   
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A Blog about new beginnings in Web Development`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-        twitter: `roadhammer1972`,
+        X: `roadhammer1972`,
     },
   },
   plugins: [
