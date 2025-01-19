@@ -53,7 +53,7 @@ const BlogIndex = ({ data, location }) => {
                   /> 
 		  <p  
 		    dangerouslySetInnerHTML={{
-		     __html: post.frontmatter.author,
+			    __html: `By: ${post.frontmatter.author}`,
 			}}
 		     itemProp="author"
 		  />

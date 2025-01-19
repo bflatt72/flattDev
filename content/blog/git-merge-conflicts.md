@@ -1,11 +1,8 @@
 ---
-layout: post
-title: Git Merge Conflicts and Git Revert
-date: 2017-10-03
-category: posts
-comments: true
-tags: [tutorial, blog]
-
+title: "Git Merge Conflicts"
+date: "2017-10-03"
+description: "How to Merge and avoid"
+author: "Brian Flatt"
 ---
 
 

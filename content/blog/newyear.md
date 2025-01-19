@@ -1,8 +1,9 @@
 ---
 
-title: "New Year-2019"
+title: "New Year 2019"
 date: "2019-01-02"
 description: "New Year Resolutions"
+author: "Brian Flatt"
 ---
 
 # New Year 2019 and coding education update

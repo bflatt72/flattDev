@@ -1,12 +1,9 @@
 ---
-layout: post
-title: Learning CSS Flexbox and Progress Update
-date: 2017-09-26
-category: posts
-tags: [Tutorial, CSS, HTML, Flexbox]
-
+title: "Learning CSS Flexbox and Progress Update"
+date: "2017-09-26"
+description: "CSS Flexbox"
+author: "Brian Flatt"
 ---
-
 
 
 For the past week or so I've been working through [Shay Howe's HTML/CSS Tutorial](learn.shayhowe.com) and last night I completed it. Instead of just reading through it though and trying to retain as much as possible,  I actually coded his example website along with the tutorial making sure never to use copy and paste except for color codes and long paragraph sections. All the code was done by hand, code along style.  

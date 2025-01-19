@@ -1,7 +1,8 @@
 ---
-title: "Teaching Myself Web Development"
+title: "Learning Web Development"
 date: "2017-09-13"
-description: "My new Web Development Journey"  
+description: "My self taught Web  Development Journey" 
+author: "Brian Flatt" 
 ---
 
 

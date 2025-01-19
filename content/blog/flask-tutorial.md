@@ -1,7 +1,8 @@
 ---
 title: "Flask Tutorial"
 date: "2019-01-03"
-description: "Starting a Flask Tutorial"
+description: "Learning Flask"
+author: "Brian Flatt"
 ---
 
 

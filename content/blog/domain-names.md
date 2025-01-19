@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Setting up Custom Domain Name
-date: 2017-10-17
-category: posts
-
+title: "Custom Domain Name"
+date: "2017-10-17"
+description: "How to set up"
+author: "Brian Flatt"
 ---
-
 
 So, last night I got around to purchasing a domain name for my blog/portfolio site. After researching several different domain name providers, I came across [1and1.com](http://www.1and1.com), which has an introductory offer too good to pass up, which is $.99 for the first year of your domain, provided that this is your first one. After first year it goes up to $14.99 but you could always change domain name providers if you found a cheaper offering. 
 

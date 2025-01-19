@@ -1,9 +1,8 @@
 ---
-layout: post
-title: Mindfulness
-date: 2017-10-23
-category: posts
-
+title: "Mindfulness"
+date: "2017-10-23"
+description: "The value of Mindfullness"
+author: "Brian Flatt"
 ---
 
 

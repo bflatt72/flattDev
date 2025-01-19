@@ -1,10 +1,8 @@
 ---
-layout: post
-title: How to Contribute to Open Source Projects on Github
-date: 2017-09-21
-category: posts
-tags: [general, about, github]
-
+title: "Open Source on Github"
+date: "2017-09-21"
+description: "How to Contribute"
+author: "Brian Flatt"
 ---
 
 

@@ -1,10 +1,9 @@
 ---
 
-layout: post
-title: Success is a Habit
-date: 2018-12-14
-category: posts
-comments: true
+title: "Success"
+date: "2018-12-14"
+description: "Success is a Habit"
+author: "Brian Flatt"
 ---
 
 > We are what we repeatedly do. Success then, is not an act, but a habit.
