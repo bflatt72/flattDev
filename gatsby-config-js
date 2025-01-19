@@ -1,0 +1,15 @@
+[200~module.exports = {
+  siteMetadata: {
+    title: `My Blog`,
+    author: `Your Name`,
+    description: `A blog about cool stuff.`,
+    siteUrl: `https://yourcustomdomain.com`,
+  },
+  plugins: [
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-react-helmet`,
+  ],
+};
+
