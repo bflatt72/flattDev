@@ -16,7 +16,7 @@ This post marks the beginning of my journey into something entirely new: web dev
 
 In September 2023, I was diagnosed with prostate cancer. The diagnosis and subsequent surgery were life-altering—not just physically but mentally. Recovery has been a process, and the lingering effects have made me think deeply about life and how fleeting it is.
 
-Facing cancer gave me a new perspective: I don’t want to spend the rest of my life grinding away at something that drains me. Life is too short to not at least try to break free from the cycle of working endlessly with little time left for myself, my family, or the things that truly matter.
+Facing cancer gave me a new perspective: I don’t want to spend the rest of my days grinding away at something that drains me. Life is too short to not at least try to break free from the cycle of working endlessly with little time left for myself, my family, or the things that truly matter.
 
 Trucking has provided for my family, but it’s also taken a toll. The long hours, unhealthy lifestyle, and constant time away from home have weighed heavily on me. After everything I’ve been through, I’ve realized that I want—and need—something different.
 
@@ -26,9 +26,11 @@ I want to:
 - Focus on my physical and mental health.
 - Create a life that offers freedom, flexibility, and financial independence.
 
-But trucking is only part of my story. Before this, I served in the Navy, where I learned technical skills, discipline, and the value of hard work. Later, I pursued college coursework in biology, English literature, and mathematics, accumulating more than enough credits for a degree but never quite finishing due to frequent changes in focus. That unfinished goal still weighs on me, but it’s also fueled my curiosity and love for learning.
+But trucking is only part of my story. Before this, I served in the Navy, where I learned technical skills, discipline, and the value of hard work. I've also worked in manufacturing, with responsibilites such as machine operator, lab operator, process engineering tech, automation tech, and shift supervisor, and in the oil/gas pipeline industry as a terminal operator. 
 
-Over the years, I’ve explored various interests—philosophy, literature, and even teaching myself the basics of web development. Despite not pursuing these paths fully, they’ve left me with a deep desire to create something meaningful, something I can call my own.
+Later, I pursued college coursework in biology, English literature, and mathematics, accumulating more than enough credits for a degree but never quite finishing due to frequent changes in focus. That unfinished goal still weighs on me, but it’s also fueled my curiosity and love for learning.
+
+Over the years, I’ve explored various interests—philosophy, literature, and even teaching myself the basics of web development. I've taken college course work in Computer Science learning C++. Despite not pursuing these paths fully, they’ve left me with a deep desire to create something meaningful, something I can call my own.
 
 #### What I Want to Do
 
