@@ -1,3 +1,11 @@
+---
+title: Teaching Success
+author: Brian Flatt
+date: 2025-02-10
+description: Taking Responsibility for one's own Success
+---
+
+
 ### **Month Two of My Learning Journey: Progress, Reflections, and Realizations**
 
 I've been home for about a month now, fully immersed in studying web development, personal development, and other educational resources that I’ve long wanted to explore. Now, as I move into my second month, I can confidently say that I’ve learned and accomplished quite a bit.
